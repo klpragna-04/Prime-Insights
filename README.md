@@ -1,5 +1,5 @@
 # Prime-Insights
-
+![Prime_Video_Logo](Prime video.png)
 This repository contains an interactive dashboard that provides an in-depth analysis of Prime Video's movies and TV shows. The dashboard visualizes key metrics related to the number of titles, genres, directors, ratings, and more, enabling insights into content distribution across different dimensions like release year, country, and rating category.
 
 ## Project Name: **Prime Insights**
